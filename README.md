@@ -1,6 +1,8 @@
 # AventuriersDuRail
 Board Game in Java &amp; JavaFX
 
+To play : clone the project & launch RailsIHM
+
 ## Présentation
 Le but de ce projet est de produire une implémentation en _Java_ du jeu de plateau _Aventuriers du Rail Europe_. Il existe de nombreuses extensions du jeu qui modifient considérablement les règles de base. Dans ce projet, nous ne considérerons que la **version Europe** du jeu.
 
